@@ -3260,6 +3260,15 @@ The `try` block runs first and throws an error. The `catch` block catches it and
 5. **Check scope** — is the variable `var`, `let`, or `const`? Is it inside a loop, function, or block?
 6. **When in doubt, say your reasoning out loud** — even if you get the final answer wrong, interviewers give credit for correct REASONING and approach.
 
+
+## 🤝 Contributing
+
+Found a mistake or want to add more questions? Feel free to open an **Issue** or submit a **Pull Request** — this repo is meant to grow with help from the community.
+
+## ⭐ Support
+
+If this repo helped you in your interview prep, consider giving it a ⭐ star — it helps others find it too!
+
 ---
 
 **Good luck — these questions become easy with practice! 🎉**
